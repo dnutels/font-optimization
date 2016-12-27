@@ -1,2 +1,3 @@
-# font-optimization
-Font optimization playground
+# Font Optimization
+
+Font optimization playground.
